@@ -6,7 +6,7 @@ implémentation de la REST API d'accès au données météorologiques : Sequeliz
 Les instructions ci dessous vous permettront de copier et déployer le projet en local pour développement ou test.
 
 ### prérequis
-Après avoir installé postgresql (postgresql <= 10) sur votre machine, excéutez les étapes suivantes : 
+Après avoir installé postgresql (postgresql >= 10) sur votre machine, excéutez les étapes suivantes : 
 - cloner le projet et décompressez le 
 - dans le répertoire racine faites un coup de 
 ```
